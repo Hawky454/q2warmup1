@@ -1,0 +1,49 @@
+body {
+  background-image: url('https://www.planwallpaper.com/static/images/abstract_colorful_textures_widescreen_desktop_background_picture-331.jpg');
+  background-size: cover;
+  background-repeat: repeat;
+  background-position: left top;
+  color: white;
+}
+
+header {
+  
+  margin-bottom: 100px;
+}
+
+.menu li {
+  color: white;
+  display: inline;
+  padding: 5px;
+}
+
+a {
+  text-decoration: none;
+}
+.active {
+  border-bottom: 2px solid red;
+}
+.home-card {
+  padding: 10px;
+  border: 2px solid white;
+  border-radius: 10px;
+  width: 400px;
+  height: 300px;
+}
+
+.about-card {
+  padding: 10px;
+  border: 2px solid white;
+  border-radius: 10px;
+  width: 400px;
+  float: right;
+}
+
+.contact-card {
+  border: 2px solid white;
+  border-radius: 10px;
+  padding: 10px;
+  width: 550px;
+  height: 500px;
+
+}
